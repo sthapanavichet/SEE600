@@ -65,6 +65,15 @@ To run the speed tests:
 # Result
 
 After running the tests, We found that the AVL Tree outperformed the std::map in both memory usage and search speed. The AVL Tree was able to handle more nodes before encountering memory allocation issues and provided faster search times in the worst-case scenarios.
+
+## Map Memory Test
+
 ![Map Memory Test](mapmem.png)
+
+## AVL Tree Memory Test
+
 ![AVL Tree Memory Test](avlmem.png)
+
+## Map vs AVL Tree Test
+
 ![Map vs AVL Tree Test](speedtest.png)
